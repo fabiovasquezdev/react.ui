@@ -59,7 +59,7 @@ src/
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/fabiovasquezdev/react.ui.git
    cd seu-repo
    ```
 
