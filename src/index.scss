@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#root {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    font-size: 16px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+}
+
+.ant-btn {
+    font-family: Inter, sans-serif;
+}
+
+* {
+    font-family: Inter, sans-serif !important;
+}
