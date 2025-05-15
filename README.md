@@ -1,6 +1,6 @@
 # VazCode
 
-Este projeto que está em fase de desenvolvimento, mas o objetivo é oferecer uma base robusta, escalável e de fácil manutenção para empresas que buscam inovação e performance.
+Este projeto que está em fase de desenvolvimento, mas o objetivo é oferecer uma base robusta, escalável e de fácil manutenção.
 
 ---
 
